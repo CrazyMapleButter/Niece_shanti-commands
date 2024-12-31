@@ -1,11 +1,9 @@
-/* Basic reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body Styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -16,7 +14,6 @@ body {
     height: 100vh;
 }
 
-/* Container */
 .container {
     width: 80%;
     max-width: 800px;
@@ -26,7 +23,6 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Header */
 header h1 {
     text-align: center;
     font-size: 2rem;
@@ -39,7 +35,6 @@ header p {
     color: #555;
 }
 
-/* Command List */
 .commands-list ul {
     list-style-type: none;
     padding: 0;
